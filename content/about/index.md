@@ -19,5 +19,6 @@ type: about
 * Bouldering and working out 💪.
 * Contributing to open source 👨‍💻.
 * Mentoring other startups 👨‍🏫.
+* Scuba dive once in a while 🐠.
 
 ![Mentoring at Google Cloud Summit](/about/images/1.jpg)
