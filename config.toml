@@ -3,7 +3,7 @@ baseurl = "https://shamun.dev/"
 languageCode = "en-US"
 
 title = "Ido Shamun"
-theme = "hyde-hyde"
+theme = "custom-hyde"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
