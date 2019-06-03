@@ -6,8 +6,8 @@ title = "Ido Shamun"
 theme = "custom-hyde"
 
 ## Hugo Built-in Features
- disqusShortname = "shamundev"
- googleAnalytics = "UA-141237878-1"
+disqusShortname = "shamundev"
+googleAnalytics = "UA-141237878-1"
 enableRobotsTXT = true
 
 # summarylength = 30
